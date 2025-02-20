@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"d099235ea294a6a8","x":-940,"y":-980,"width":440,"height":1760,"type":"group","label":"Group"},
+		{"id":"d3f428c31d1e37e9","type":"file","file":"Vault/Math.md","x":-920,"y":-960,"width":400,"height":400},
+		{"id":"896f5f01b4665d12","type":"file","file":"Vault/Code.md","x":-920,"y":-516,"width":400,"height":400},
+		{"id":"01a84fbb906736a7","type":"file","file":"Vault/Tables.md","x":-920,"y":-80,"width":400,"height":400},
+		{"id":"907eced4b52b1b1d","type":"file","file":"Vault/Footnote.md","x":-920,"y":360,"width":400,"height":400},
+		{"id":"2e02e3759e2e9126","type":"file","file":"Vault/Links.md","x":-320,"y":-960,"width":400,"height":400},
+		{"id":"1ddb037a3e79adee","type":"file","file":"Vault/Lists.md","x":-320,"y":-516,"width":400,"height":400},
+		{"id":"449e5feba34a36fe","type":"file","file":"Vault/Formats.md","x":-320,"y":-80,"width":400,"height":400},
+		{"id":"b541ee838eddfb1f","type":"file","file":"Vault/Headings.md","x":-320,"y":360,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"ec63e1c3d9a1b5be","fromNode":"d099235ea294a6a8","fromSide":"right","toNode":"2e02e3759e2e9126","toSide":"left"}
+	]
+}
