@@ -1,1 +1,1 @@
-# obsidian-practice-vault
+# Obsidian Practice Vault
