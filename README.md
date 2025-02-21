@@ -1,4 +1,4 @@
-# Obsidian Practice Vault
+# Obsidian Theme Vault
 
 ### Thesis
 
