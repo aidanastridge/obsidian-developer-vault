@@ -6,6 +6,7 @@
 - Happy
 - Grumpy
 - Doc
+- Dopey
 
 1. Sneezy
 2. Bashful
@@ -13,6 +14,7 @@
 4. Happy
 5. Grumpy
 6. Doc
+7. Dopey
 
  - [x] Sneezy
  - [ ] Bashful
@@ -20,3 +22,4 @@
  - [ ] Happy
  - [ ] Grumpy
  - [ ] Doc
+ - [ ] Dopey
