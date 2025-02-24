@@ -12,7 +12,7 @@ A vault that contains notes emphasizing the core puglins and tools of Obsidian f
 - Formats
 - Code blocks
 - Math blocks
-- Quotations
+- Quotes and Callout blocks
 - Tables
 - Footnotes
 - Tags
