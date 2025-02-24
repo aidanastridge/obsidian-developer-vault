@@ -8,9 +8,11 @@
 		{"id":"2e02e3759e2e9126","type":"file","file":"Vault/Links.md","x":-320,"y":-960,"width":400,"height":400},
 		{"id":"1ddb037a3e79adee","type":"file","file":"Vault/Lists.md","x":-320,"y":-516,"width":400,"height":400},
 		{"id":"449e5feba34a36fe","type":"file","file":"Vault/Formats.md","x":-320,"y":-80,"width":400,"height":400},
-		{"id":"b541ee838eddfb1f","type":"file","file":"Vault/Headings.md","x":-320,"y":360,"width":400,"height":400}
+		{"id":"b541ee838eddfb1f","type":"file","file":"Vault/Headings.md","x":-320,"y":360,"width":400,"height":400},
+		{"id":"7586ccb99aa9be1a","type":"file","file":"Vault/Quotes and Callouts.md","x":-320,"y":800,"width":400,"height":400}
 	],
 	"edges":[
-		{"id":"ec63e1c3d9a1b5be","fromNode":"d099235ea294a6a8","fromSide":"right","toNode":"2e02e3759e2e9126","toSide":"left"}
+		{"id":"ec63e1c3d9a1b5be","fromNode":"d099235ea294a6a8","fromSide":"right","toNode":"2e02e3759e2e9126","toSide":"left"},
+		{"id":"3d25dd89ab384158","fromNode":"907eced4b52b1b1d","fromSide":"right","toNode":"7586ccb99aa9be1a","toSide":"left"}
 	]
 }
