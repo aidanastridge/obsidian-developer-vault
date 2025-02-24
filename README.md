@@ -1,4 +1,4 @@
-# Obsidian Theme Vault
+# Obsidian Developer Vault
 
 ### Thesis
 
