@@ -3,7 +3,7 @@ import random
 from pathlib import Path
 
 # Vault
-vault_path = '/Users/aidanastridge/Documents/Base/Vault'
+vault_path = '/Vault'
 
 # Eliminating file extensions and cleaning
 vault = os.listdir(vault_path)
