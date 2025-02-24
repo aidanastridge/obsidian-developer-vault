@@ -1,7 +1,4 @@
 #Canvas 
  [[Canvas]]
-[[Canvas_23.md]]
-[[Canvas_12.md]]
-[[Canvas_23.md]]
-[[Canvas_21.md]]
-[[Canvas_5.md]]
+[[Links/Links_2.md]]
+[[Links/Links_5.md]]

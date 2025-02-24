@@ -1,3 +1,5 @@
 #Footnotes 
  [[Footnotes]]
-[[Footnotes_11.md]]
+[[Links/Links_20.md]]
+[[Tables/Tables_19.md]]
+[[Quotes and Callouts/Quotes and Callouts_11.md]]

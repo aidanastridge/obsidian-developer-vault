@@ -1,3 +1,5 @@
 #Math 
  [[Math]]
-[[Math_11.md]]
+[[Lists/Lists_15.md]]
+[[Headings/Headings_7.md]]
+[[Lists/Lists_16.md]]

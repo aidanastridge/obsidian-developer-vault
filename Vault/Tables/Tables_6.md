@@ -1,4 +1,3 @@
 #Tables 
  [[Tables]]
-[[Tables_19.md]]
-[[Tables_16.md]]
+[[Footnotes/Footnotes_16.md]]

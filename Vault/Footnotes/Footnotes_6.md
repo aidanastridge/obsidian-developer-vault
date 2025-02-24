@@ -1,5 +1,4 @@
 #Footnotes 
  [[Footnotes]]
-[[Footnotes_19.md]]
-[[Footnotes_20.md]]
-[[Footnotes_4.md]]
+[[Math/Math_5.md]]
+[[Formats/Formats_19.md]]

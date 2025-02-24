@@ -1,5 +1,3 @@
 #Code 
  [[Code]]
-[[Code_15.md]]
-[[Code_7.md]]
-[[Code_2.md]]
+[[Quotes and Callouts/Quotes and Callouts_2.md]]

@@ -1,3 +1,3 @@
 #Footnotes 
  [[Footnotes]]
-[[Footnotes_24.md]]
+[[Formats/Formats_10.md]]

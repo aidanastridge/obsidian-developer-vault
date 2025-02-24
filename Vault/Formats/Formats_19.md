@@ -1,4 +1,4 @@
 #Formats 
  [[Formats]]
-[[Formats_22.md]]
-[[Formats_18.md]]
+[[Headings/Headings_7.md]]
+[[Footnotes/Footnotes_15.md]]

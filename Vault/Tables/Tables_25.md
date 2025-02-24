@@ -1,3 +1,5 @@
 #Tables 
  [[Tables]]
-[[Tables_13.md]]
+[[Quotes and Callouts/Quotes and Callouts_13.md]]
+[[Headings/Headings_24.md]]
+[[Canvas/Canvas_24.md]]

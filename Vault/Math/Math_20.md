@@ -1,6 +1,4 @@
 #Math 
  [[Math]]
-[[Math_22.md]]
-[[Math_2.md]]
-[[Math_19.md]]
-[[Math_3.md]]
+[[Links/Links_20.md]]
+[[Formats/Formats_7.md]]

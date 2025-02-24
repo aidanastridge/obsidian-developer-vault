@@ -1,6 +1,4 @@
 #Formats 
  [[Formats]]
-[[Formats_8.md]]
-[[Formats_3.md]]
-[[Formats_1.md]]
-[[Formats_4.md]]
+[[Orphans/Orphans_13.md]]
+[[Canvas/Canvas_14.md]]

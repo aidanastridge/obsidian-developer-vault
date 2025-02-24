@@ -1,6 +1,5 @@
 #Orphans 
  [[Orphans]]
-[[Orphans_9.md]]
-[[Orphans_19.md]]
-[[Orphans_24.md]]
-[[Orphans_9.md]]
+[[Footnotes/Footnotes_19.md]]
+[[Code/Code_19.md]]
+[[Code/Code_21.md]]

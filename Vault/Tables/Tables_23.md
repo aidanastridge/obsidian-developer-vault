@@ -1,4 +1,4 @@
 #Tables 
  [[Tables]]
-[[Tables_19.md]]
-[[Tables_10.md]]
+[[Math/Math_15.md]]
+[[Canvas/Canvas_8.md]]

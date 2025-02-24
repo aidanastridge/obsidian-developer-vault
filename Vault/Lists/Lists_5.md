@@ -1,7 +1,5 @@
 #Lists 
  [[Lists]]
-[[Lists_10.md]]
-[[Lists_24.md]]
-[[Lists_15.md]]
-[[Lists_18.md]]
-[[Lists_15.md]]
+[[Code/Code_22.md]]
+[[Math/Math_24.md]]
+[[Footnotes/Footnotes_15.md]]

@@ -1,4 +1,4 @@
 #Formats 
  [[Formats]]
-[[Formats_1.md]]
-[[Formats_25.md]]
+[[Math/Math_25.md]]
+[[Orphans/Orphans_20.md]]

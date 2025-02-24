@@ -1,7 +1,4 @@
 #Orphans 
  [[Orphans]]
-[[Orphans_2.md]]
-[[Orphans_18.md]]
-[[Orphans_21.md]]
-[[Orphans_16.md]]
-[[Orphans_16.md]]
+[[Quotes and Callouts/Quotes and Callouts_7.md]]
+[[Links/Links_8.md]]

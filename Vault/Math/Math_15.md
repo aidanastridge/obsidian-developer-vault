@@ -1,4 +1,4 @@
 #Math 
  [[Math]]
-[[Math_23.md]]
-[[Math_20.md]]
+[[Code/Code_12.md]]
+[[Quotes and Callouts/Quotes and Callouts_17.md]]

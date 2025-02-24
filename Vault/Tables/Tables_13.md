@@ -1,6 +1,5 @@
 #Tables 
  [[Tables]]
-[[Tables_15.md]]
-[[Tables_17.md]]
-[[Tables_22.md]]
-[[Tables_21.md]]
+[[Canvas/Canvas_24.md]]
+[[Math/Math_5.md]]
+[[Orphans/Orphans_4.md]]

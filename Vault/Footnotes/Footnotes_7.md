@@ -1,6 +1,4 @@
 #Footnotes 
  [[Footnotes]]
-[[Footnotes_11.md]]
-[[Footnotes_17.md]]
-[[Footnotes_13.md]]
-[[Footnotes_17.md]]
+[[Headings/Headings_2.md]]
+[[Canvas/Canvas_18.md]]

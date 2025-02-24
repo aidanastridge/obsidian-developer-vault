@@ -1,3 +1,4 @@
 #Quotes and Callouts 
  [[Quotes and Callouts]]
-[[Quotes and Callouts_10.md]]
+[[Headings/Headings_20.md]]
+[[Headings/Headings_1.md]]

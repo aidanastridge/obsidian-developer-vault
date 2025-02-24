@@ -1,4 +1,4 @@
 #Quotes and Callouts 
  [[Quotes and Callouts]]
-[[Quotes and Callouts_21.md]]
-[[Quotes and Callouts_4.md]]
+[[Code/Code_15.md]]
+[[Links/Links_25.md]]

@@ -1,4 +1,4 @@
 #Formats 
  [[Formats]]
-[[Formats_18.md]]
-[[Formats_2.md]]
+[[Canvas/Canvas_10.md]]
+[[Headings/Headings_7.md]]

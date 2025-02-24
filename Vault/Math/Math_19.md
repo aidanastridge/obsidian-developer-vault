@@ -1,5 +1,3 @@
 #Math 
  [[Math]]
-[[Math_21.md]]
-[[Math_4.md]]
-[[Math_4.md]]
+[[Quotes and Callouts/Quotes and Callouts_23.md]]

@@ -1,3 +1,5 @@
 #Links 
  [[Links]]
-[[Links_21.md]]
+[[Headings/Headings_22.md]]
+[[Code/Code_10.md]]
+[[Canvas/Canvas_1.md]]

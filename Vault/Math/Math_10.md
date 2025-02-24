@@ -1,3 +1,3 @@
 #Math 
  [[Math]]
-[[Math_15.md]]
+[[Tables/Tables_16.md]]

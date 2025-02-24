@@ -1,6 +1,5 @@
 #Links 
  [[Links]]
-[[Links_23.md]]
-[[Links_12.md]]
-[[Links_3.md]]
-[[Links_11.md]]
+[[Code/Code_3.md]]
+[[Lists/Lists_24.md]]
+[[Footnotes/Footnotes_5.md]]

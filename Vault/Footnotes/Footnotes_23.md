@@ -1,7 +1,5 @@
 #Footnotes 
  [[Footnotes]]
-[[Footnotes_25.md]]
-[[Footnotes_25.md]]
-[[Footnotes_15.md]]
-[[Footnotes_14.md]]
-[[Footnotes_5.md]]
+[[Math/Math_10.md]]
+[[Headings/Headings_16.md]]
+[[Orphans/Orphans_22.md]]

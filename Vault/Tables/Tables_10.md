@@ -1,5 +1,4 @@
 #Tables 
  [[Tables]]
-[[Tables_25.md]]
-[[Tables_18.md]]
-[[Tables_1.md]]
+[[Links/Links_20.md]]
+[[Headings/Headings_7.md]]

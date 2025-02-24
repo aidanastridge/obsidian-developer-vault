@@ -1,4 +1,4 @@
 #Lists 
  [[Lists]]
-[[Lists_15.md]]
-[[Lists_21.md]]
+[[Links/Links_2.md]]
+[[Canvas/Canvas_16.md]]

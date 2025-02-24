@@ -1,5 +1,3 @@
 #Footnotes 
  [[Footnotes]]
-[[Footnotes_19.md]]
-[[Footnotes_17.md]]
-[[Footnotes_24.md]]
+[[Quotes and Callouts/Quotes and Callouts_20.md]]

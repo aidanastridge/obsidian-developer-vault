@@ -1,4 +1,5 @@
 #Quotes and Callouts 
  [[Quotes and Callouts]]
-[[Quotes and Callouts_25.md]]
-[[Quotes and Callouts_6.md]]
+[[Lists/Lists_24.md]]
+[[Canvas/Canvas_14.md]]
+[[Formats/Formats_25.md]]

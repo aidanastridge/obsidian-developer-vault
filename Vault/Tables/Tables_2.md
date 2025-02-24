@@ -1,3 +1,4 @@
 #Tables 
  [[Tables]]
-[[Tables_19.md]]
+[[Headings/Headings_6.md]]
+[[Formats/Formats_4.md]]

@@ -1,3 +1,3 @@
 #Quotes and Callouts 
  [[Quotes and Callouts]]
-[[Quotes and Callouts_21.md]]
+[[Math/Math_24.md]]

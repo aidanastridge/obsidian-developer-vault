@@ -1,4 +1,3 @@
 #Canvas 
  [[Canvas]]
-[[Canvas_5.md]]
-[[Canvas_7.md]]
+[[Math/Math_16.md]]

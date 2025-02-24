@@ -1,6 +1,5 @@
 #Canvas 
  [[Canvas]]
-[[Canvas_20.md]]
-[[Canvas_20.md]]
-[[Canvas_10.md]]
-[[Canvas_21.md]]
+[[Formats/Formats_15.md]]
+[[Quotes and Callouts/Quotes and Callouts_16.md]]
+[[Orphans/Orphans_10.md]]

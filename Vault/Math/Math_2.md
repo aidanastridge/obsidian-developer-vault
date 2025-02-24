@@ -1,3 +1,4 @@
 #Math 
  [[Math]]
-[[Math_14.md]]
+[[Footnotes/Footnotes_1.md]]
+[[Formats/Formats_6.md]]

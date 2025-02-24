@@ -1,5 +1,4 @@
 #Lists 
  [[Lists]]
-[[Lists_4.md]]
-[[Lists_17.md]]
-[[Lists_19.md]]
+[[Headings/Headings_10.md]]
+[[Formats/Formats_21.md]]

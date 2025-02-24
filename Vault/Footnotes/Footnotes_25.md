@@ -1,7 +1,5 @@
 #Footnotes 
  [[Footnotes]]
-[[Footnotes_24.md]]
-[[Footnotes_8.md]]
-[[Footnotes_13.md]]
-[[Footnotes_5.md]]
-[[Footnotes_11.md]]
+[[Canvas/Canvas_12.md]]
+[[Math/Math_15.md]]
+[[Math/Math_10.md]]

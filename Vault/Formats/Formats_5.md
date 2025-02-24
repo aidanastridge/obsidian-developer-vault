@@ -1,5 +1,4 @@
 #Formats 
  [[Formats]]
-[[Formats_22.md]]
-[[Formats_2.md]]
-[[Formats_10.md]]
+[[Footnotes/Footnotes_12.md]]
+[[Code/Code_2.md]]

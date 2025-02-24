@@ -1,4 +1,3 @@
 #Canvas 
  [[Canvas]]
-[[Canvas_25.md]]
-[[Canvas_6.md]]
+[[Formats/Formats_12.md]]

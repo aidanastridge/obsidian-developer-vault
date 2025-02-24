@@ -1,3 +1,3 @@
 #Quotes and Callouts 
  [[Quotes and Callouts]]
-[[Quotes and Callouts_2.md]]
+[[Footnotes/Footnotes_25.md]]

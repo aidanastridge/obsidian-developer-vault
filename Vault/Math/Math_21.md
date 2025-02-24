@@ -1,7 +1,5 @@
 #Math 
  [[Math]]
-[[Math_8.md]]
-[[Math_5.md]]
-[[Math_8.md]]
-[[Math_1.md]]
-[[Math_16.md]]
+[[Tables/Tables_14.md]]
+[[Formats/Formats_12.md]]
+[[Lists/Lists_18.md]]

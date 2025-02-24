@@ -1,4 +1,4 @@
 #Math 
  [[Math]]
-[[Math_18.md]]
-[[Math_10.md]]
+[[Formats/Formats_7.md]]
+[[Canvas/Canvas_17.md]]

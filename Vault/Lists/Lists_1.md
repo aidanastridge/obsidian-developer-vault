@@ -1,5 +1,5 @@
 #Lists 
  [[Lists]]
-[[Lists_3.md]]
-[[Lists_22.md]]
-[[Lists_12.md]]
+[[Headings/Headings_19.md]]
+[[Headings/Headings_1.md]]
+[[Formats/Formats_8.md]]

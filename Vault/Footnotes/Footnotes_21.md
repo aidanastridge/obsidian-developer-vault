@@ -1,3 +1,3 @@
 #Footnotes 
  [[Footnotes]]
-[[Footnotes_18.md]]
+[[Lists/Lists_18.md]]

@@ -1,5 +1,4 @@
 #Code 
  [[Code]]
-[[Code_18.md]]
-[[Code_10.md]]
-[[Code_16.md]]
+[[Links/Links_18.md]]
+[[Quotes and Callouts/Quotes and Callouts_25.md]]

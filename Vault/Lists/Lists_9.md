@@ -1,6 +1,5 @@
 #Lists 
  [[Lists]]
-[[Lists_22.md]]
-[[Lists_22.md]]
-[[Lists_16.md]]
-[[Lists_8.md]]
+[[Quotes and Callouts/Quotes and Callouts_1.md]]
+[[Footnotes/Footnotes_17.md]]
+[[Quotes and Callouts/Quotes and Callouts_7.md]]

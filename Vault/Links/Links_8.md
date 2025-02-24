@@ -1,3 +1,4 @@
 #Links 
  [[Links]]
-[[Links_24.md]]
+[[Quotes and Callouts/Quotes and Callouts_21.md]]
+[[Canvas/Canvas_18.md]]

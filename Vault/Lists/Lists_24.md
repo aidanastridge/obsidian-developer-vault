@@ -1,4 +1,5 @@
 #Lists 
  [[Lists]]
-[[Lists_23.md]]
-[[Lists_18.md]]
+[[Footnotes/Footnotes_15.md]]
+[[Links/Links_23.md]]
+[[Tables/Tables_22.md]]

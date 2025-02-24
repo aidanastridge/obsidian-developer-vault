@@ -1,6 +1,4 @@
 #Tables 
  [[Tables]]
-[[Tables_1.md]]
-[[Tables_21.md]]
-[[Tables_11.md]]
-[[Tables_6.md]]
+[[Headings/Headings_1.md]]
+[[Footnotes/Footnotes_21.md]]

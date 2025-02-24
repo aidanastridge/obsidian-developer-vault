@@ -1,4 +1,3 @@
 #Links 
  [[Links]]
-[[Links_13.md]]
-[[Links_22.md]]
+[[Math/Math_14.md]]

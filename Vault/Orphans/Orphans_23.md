@@ -1,7 +1,5 @@
 #Orphans 
  [[Orphans]]
-[[Orphans_9.md]]
-[[Orphans_18.md]]
-[[Orphans_4.md]]
-[[Orphans_24.md]]
-[[Orphans_25.md]]
+[[Quotes and Callouts/Quotes and Callouts_25.md]]
+[[Canvas/Canvas_17.md]]
+[[Headings/Headings_3.md]]

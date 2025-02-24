@@ -1,4 +1,4 @@
 #Headings 
  [[Headings]]
-[[Headings_16.md]]
-[[Headings_20.md]]
+[[Math/Math_21.md]]
+[[Tables/Tables_20.md]]

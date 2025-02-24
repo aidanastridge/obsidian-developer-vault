@@ -1,7 +1,4 @@
 #Footnotes 
  [[Footnotes]]
-[[Footnotes_13.md]]
-[[Footnotes_2.md]]
-[[Footnotes_13.md]]
-[[Footnotes_1.md]]
-[[Footnotes_7.md]]
+[[Lists/Lists_16.md]]
+[[Quotes and Callouts/Quotes and Callouts_2.md]]

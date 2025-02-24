@@ -1,4 +1,5 @@
 #Lists 
  [[Lists]]
-[[Lists_11.md]]
-[[Lists_19.md]]
+[[Footnotes/Footnotes_13.md]]
+[[Canvas/Canvas_15.md]]
+[[Formats/Formats_6.md]]

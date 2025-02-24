@@ -1,5 +1,4 @@
 #Canvas 
  [[Canvas]]
-[[Canvas_1.md]]
-[[Canvas_3.md]]
-[[Canvas_19.md]]
+[[Formats/Formats_12.md]]
+[[Code/Code_13.md]]

@@ -1,4 +1,4 @@
 #Formats 
  [[Formats]]
-[[Formats_5.md]]
-[[Formats_9.md]]
+[[Quotes and Callouts/Quotes and Callouts_3.md]]
+[[Tables/Tables_16.md]]

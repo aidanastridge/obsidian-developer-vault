@@ -1,3 +1,4 @@
 #Headings 
  [[Headings]]
-[[Headings_17.md]]
+[[Lists/Lists_6.md]]
+[[Footnotes/Footnotes_17.md]]

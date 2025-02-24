@@ -1,4 +1,3 @@
 #Lists 
  [[Lists]]
-[[Lists_10.md]]
-[[Lists_7.md]]
+[[Links/Links_21.md]]

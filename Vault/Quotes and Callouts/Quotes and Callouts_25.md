@@ -1,5 +1,4 @@
 #Quotes and Callouts 
  [[Quotes and Callouts]]
-[[Quotes and Callouts_2.md]]
-[[Quotes and Callouts_13.md]]
-[[Quotes and Callouts_22.md]]
+[[Links/Links_25.md]]
+[[Orphans/Orphans_4.md]]

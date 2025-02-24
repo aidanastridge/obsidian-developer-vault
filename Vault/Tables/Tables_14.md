@@ -1,3 +1,5 @@
 #Tables 
  [[Tables]]
-[[Tables_20.md]]
+[[Links/Links_22.md]]
+[[Formats/Formats_22.md]]
+[[Headings/Headings_10.md]]

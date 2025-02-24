@@ -1,4 +1,4 @@
 #Quotes and Callouts 
  [[Quotes and Callouts]]
-[[Quotes and Callouts_5.md]]
-[[Quotes and Callouts_6.md]]
+[[Math/Math_9.md]]
+[[Footnotes/Footnotes_10.md]]

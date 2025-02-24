@@ -1,6 +1,4 @@
 #Formats 
  [[Formats]]
-[[Formats_18.md]]
-[[Formats_20.md]]
-[[Formats_19.md]]
-[[Formats_17.md]]
+[[Footnotes/Footnotes_13.md]]
+[[Quotes and Callouts/Quotes and Callouts_16.md]]

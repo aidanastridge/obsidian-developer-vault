@@ -1,6 +1,5 @@
 #Headings 
  [[Headings]]
-[[Headings_8.md]]
-[[Headings_9.md]]
-[[Headings_22.md]]
-[[Headings_17.md]]
+[[Tables/Tables_24.md]]
+[[Tables/Tables_22.md]]
+[[Footnotes/Footnotes_17.md]]

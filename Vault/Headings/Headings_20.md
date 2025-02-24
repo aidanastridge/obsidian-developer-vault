@@ -1,6 +1,5 @@
 #Headings 
  [[Headings]]
-[[Headings_9.md]]
-[[Headings_14.md]]
-[[Headings_3.md]]
-[[Headings_3.md]]
+[[Quotes and Callouts/Quotes and Callouts_5.md]]
+[[Code/Code_16.md]]
+[[Canvas/Canvas_7.md]]

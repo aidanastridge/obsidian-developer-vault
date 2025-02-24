@@ -1,6 +1,4 @@
 #Canvas 
  [[Canvas]]
-[[Canvas_22.md]]
-[[Canvas_13.md]]
-[[Canvas_15.md]]
-[[Canvas_21.md]]
+[[Lists/Lists_15.md]]
+[[Lists/Lists_10.md]]

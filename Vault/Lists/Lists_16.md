@@ -1,5 +1,5 @@
 #Lists 
  [[Lists]]
-[[Lists_2.md]]
-[[Lists_24.md]]
-[[Lists_15.md]]
+[[Math/Math_20.md]]
+[[Math/Math_3.md]]
+[[Canvas/Canvas_18.md]]

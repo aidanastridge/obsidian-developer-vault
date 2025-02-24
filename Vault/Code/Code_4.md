@@ -1,4 +1,4 @@
 #Code 
  [[Code]]
-[[Code_7.md]]
-[[Code_13.md]]
+[[Canvas/Canvas_23.md]]
+[[Tables/Tables_12.md]]

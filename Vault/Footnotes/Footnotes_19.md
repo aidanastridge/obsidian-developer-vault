@@ -1,6 +1,5 @@
 #Footnotes 
  [[Footnotes]]
-[[Footnotes_24.md]]
-[[Footnotes_22.md]]
-[[Footnotes_15.md]]
-[[Footnotes_1.md]]
+[[Math/Math_14.md]]
+[[Links/Links_24.md]]
+[[Tables/Tables_17.md]]

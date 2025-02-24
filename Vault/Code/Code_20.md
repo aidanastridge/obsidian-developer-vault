@@ -1,3 +1,4 @@
 #Code 
  [[Code]]
-[[Code_3.md]]
+[[Canvas/Canvas_24.md]]
+[[Math/Math_13.md]]

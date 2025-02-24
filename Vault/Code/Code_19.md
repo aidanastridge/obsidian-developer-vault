@@ -1,4 +1,3 @@
 #Code 
  [[Code]]
-[[Code_7.md]]
-[[Code_6.md]]
+[[Formats/Formats_24.md]]

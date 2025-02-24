@@ -1,3 +1,3 @@
 #Math 
  [[Math]]
-[[Math_7.md]]
+[[Lists/Lists_3.md]]

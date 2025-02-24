@@ -1,6 +1,5 @@
 #Formats 
  [[Formats]]
-[[Formats_9.md]]
-[[Formats_10.md]]
-[[Formats_16.md]]
-[[Formats_14.md]]
+[[Tables/Tables_9.md]]
+[[Footnotes/Footnotes_9.md]]
+[[Math/Math_5.md]]

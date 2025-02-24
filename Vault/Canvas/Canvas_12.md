@@ -1,7 +1,5 @@
 #Canvas 
  [[Canvas]]
-[[Canvas_7.md]]
-[[Canvas_16.md]]
-[[Canvas_24.md]]
-[[Canvas_20.md]]
-[[Canvas_19.md]]
+[[Formats/Formats_15.md]]
+[[Lists/Lists_9.md]]
+[[Lists/Lists_1.md]]

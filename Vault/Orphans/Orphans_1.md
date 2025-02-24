@@ -1,5 +1,5 @@
 #Orphans 
  [[Orphans]]
-[[Orphans_15.md]]
-[[Orphans_4.md]]
-[[Orphans_19.md]]
+[[Footnotes/Footnotes_16.md]]
+[[Canvas/Canvas_1.md]]
+[[Tables/Tables_1.md]]

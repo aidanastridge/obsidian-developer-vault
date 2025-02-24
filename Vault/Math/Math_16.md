@@ -1,4 +1,5 @@
 #Math 
  [[Math]]
-[[Math_11.md]]
-[[Math_22.md]]
+[[Headings/Headings_14.md]]
+[[Tables/Tables_21.md]]
+[[Footnotes/Footnotes_20.md]]

@@ -1,4 +1,3 @@
 #Tables 
  [[Tables]]
-[[Tables_16.md]]
-[[Tables_10.md]]
+[[Headings/Headings_4.md]]

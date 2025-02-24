@@ -1,5 +1,4 @@
 #Headings 
  [[Headings]]
-[[Headings_25.md]]
-[[Headings_11.md]]
-[[Headings_7.md]]
+[[Code/Code_24.md]]
+[[Lists/Lists_16.md]]

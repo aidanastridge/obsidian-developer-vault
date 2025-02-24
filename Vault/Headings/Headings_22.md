@@ -1,4 +1,3 @@
 #Headings 
  [[Headings]]
-[[Headings_25.md]]
-[[Headings_19.md]]
+[[Orphans/Orphans_12.md]]

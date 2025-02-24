@@ -1,5 +1,4 @@
 #Lists 
  [[Lists]]
-[[Lists_3.md]]
-[[Lists_24.md]]
-[[Lists_21.md]]
+[[Tables/Tables_20.md]]
+[[Formats/Formats_25.md]]

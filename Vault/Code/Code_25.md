@@ -1,4 +1,5 @@
 #Code 
  [[Code]]
-[[Code_19.md]]
-[[Code_7.md]]
+[[Headings/Headings_18.md]]
+[[Tables/Tables_12.md]]
+[[Lists/Lists_24.md]]

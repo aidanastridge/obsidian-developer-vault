@@ -1,4 +1,4 @@
 #Math 
  [[Math]]
-[[Math_8.md]]
-[[Math_6.md]]
+[[Tables/Tables_20.md]]
+[[Tables/Tables_5.md]]
