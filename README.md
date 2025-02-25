@@ -1,5 +1,8 @@
 # Obsidian Developer Vault
 
+## UPDATE 
+I just found out the Obsidian developers made [one](https://github.com/obsidian-community/theme-dev-vault/). I'm going to keep this up though.
+
 ### Thesis
 
 A vault that contains notes emphasizing the core plugins and tools of Obsidian for developers.
